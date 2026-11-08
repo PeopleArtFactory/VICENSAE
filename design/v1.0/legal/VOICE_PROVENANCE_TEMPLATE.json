@@ -1,0 +1,25 @@
+{
+  "schema": "VICENSAE/voice-provenance/0.1",
+  "generator": {
+    "name": null,
+    "version": null,
+    "upstream_url": null,
+    "license": null
+  },
+  "model": {
+    "name": null,
+    "license": null,
+    "weights_hash_sha256": null
+  },
+  "voice": {
+    "name": "VICENSAE (provisional)",
+    "speaker_rights": null,
+    "consent_evidence": null
+  },
+  "audio": {
+    "file": null,
+    "sha256": null,
+    "usage_rights": null
+  },
+  "status": "WITHHOLD_UNVERIFIED"
+}
