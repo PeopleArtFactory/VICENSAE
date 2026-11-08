@@ -1,0 +1,28 @@
+{
+  "schema": "VICENSAE/typeface-provenance/0.1",
+  "sources": [
+    {
+      "family": "Inter",
+      "version": null,
+      "source_commit": null,
+      "sha256": null,
+      "license": "OFL-1.1 (verify exact version)"
+    },
+    {
+      "family": "Raleway",
+      "version": null,
+      "source_commit": null,
+      "sha256": null,
+      "license": "OFL-1.1 (verify exact version)"
+    }
+  ],
+  "derivative": {
+    "family": "VICENSAE Display (working name)",
+    "reserved_font_name_review": "PENDING",
+    "original_glyphs": [],
+    "designer_contributions": [],
+    "ai_assistance_disclosure": null,
+    "license": "OFL-1.1 if derivative"
+  },
+  "status": "WITHHOLD_UNVERIFIED"
+}
