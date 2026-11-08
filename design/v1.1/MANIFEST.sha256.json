@@ -1,0 +1,46 @@
+{
+  "schema": "VICENSAE/design-package/1.1",
+  "status": "DESIGN_ONLY",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "1d40cdd8d8ed2cade05ec34e493f0b5d9c243375d5f110b79b150a8aa55ade35",
+      "bytes": 1108
+    },
+    {
+      "path": "docs/VICENSAE_BRAND_MANUAL_v1.1-RC1.md",
+      "sha256": "35f31fe0917ea0273eecf96069ee3e194eaea6014a29336330fedf5e568b8f03",
+      "bytes": 9517
+    },
+    {
+      "path": "legal/THIRD_PARTY_AND_STATUS.md",
+      "sha256": "3815329db29c84aba3cf5e03d034ae306aeae43e0f0823e23fac76182814833d",
+      "bytes": 585
+    },
+    {
+      "path": "preview/index.html",
+      "sha256": "2bf4ea682155c9e06eb9037e9286f25fc0c16a53a7449eda2744bb4a45f7b898",
+      "bytes": 6054
+    },
+    {
+      "path": "src/vicensae.css",
+      "sha256": "f3bd764271f1e908f9bff1d7bdac2d5381488d75c837a8cad0081e40ba845cf9",
+      "bytes": 4009
+    },
+    {
+      "path": "tests/ACCEPTANCE.md",
+      "sha256": "c86ede1d2e5a216ab6f525c323732f7667515468724e4527240f580f352587d7",
+      "bytes": 584
+    },
+    {
+      "path": "tokens/core.json",
+      "sha256": "5494496eeb3e2d3854fbc4cfd346924926557b45085dd51ae544cb934c202181",
+      "bytes": 1255
+    },
+    {
+      "path": "tokens/semantic.json",
+      "sha256": "8e989141f043b1c1c4033645135f4fe5edf59b1b5f9838854b1b921c28e699f9",
+      "bytes": 995
+    }
+  ]
+}
