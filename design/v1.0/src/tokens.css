@@ -1,0 +1,2 @@
+:root{--vaes-bg:#07121c;--vaes-panel:#112630;--vaes-ink:#f5f1e7;--vaes-muted:#afc2c6;--vaes-gold:#e8cb90;--vaes-green:#a1e6c0;--vaes-border:#5b6b6d;--vaes-focus:#fff2ac;--vaes-radius:20px;--vaes-gap:1rem;--vaes-font-ui:"Inter",system-ui,sans-serif;--vaes-font-display:"Raleway","Inter",system-ui,sans-serif;--vaes-font-vicensae:"VICENSAE Display","Raleway",system-ui,sans-serif}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}}
