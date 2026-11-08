@@ -1,0 +1,47 @@
+{
+  "$schema": "VICENSAE/semantic-tokens/1.1",
+  "dark": {
+    "bg": "#090A0F",
+    "surface": "#1B1B22",
+    "raised": "#26262E",
+    "text": "#F7F3E8",
+    "muted": "#A7A7B2",
+    "border": "#34343C",
+    "accent": "#EAC878",
+    "accent-ink": "#211904",
+    "focus": "#FFE5A0",
+    "success": "#97E5B7",
+    "warning": "#FFD27D",
+    "danger": "#FFB6AE",
+    "info": "#A7C8FF"
+  },
+  "light": {
+    "bg": "#F7F3E8",
+    "surface": "#FFFFFF",
+    "raised": "#F3EFE6",
+    "text": "#29251F",
+    "muted": "#635E55",
+    "border": "#C8BFAF",
+    "accent": "#77581A",
+    "accent-ink": "#FFFFFF",
+    "focus": "#815A00",
+    "success": "#16633E",
+    "warning": "#785009",
+    "danger": "#A32E32",
+    "info": "#244F91"
+  },
+  "products": {
+    "VICENSAE": {
+      "accent": "gold"
+    },
+    "PAF4": {
+      "accent": "paf-green (candidate; confirm master)"
+    },
+    "QSONG": {
+      "accent": "gold"
+    },
+    "COIIRM": {
+      "accent": "institutional brand pending permission"
+    }
+  }
+}
