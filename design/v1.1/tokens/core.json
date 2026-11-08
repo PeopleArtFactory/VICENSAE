@@ -1,0 +1,60 @@
+{
+  "$schema": "VICENSAE/design-tokens/1.1",
+  "version": "1.1.0-rc1",
+  "status": "DESIGN_CANDIDATE",
+  "primitive": {
+    "obsidian": "#090A0F",
+    "navy": "#07121C",
+    "panel": "#1B1B22",
+    "raised": "#26262E",
+    "gold": "#EAC878",
+    "gold-soft": "#E8CB90",
+    "ivory": "#F7F3E8",
+    "muted": "#A7A7B2",
+    "green": "#97E5B7",
+    "red": "#FFB6AE",
+    "amber": "#FFD27D",
+    "blue": "#A7C8FF",
+    "paf-green": "#2EB88A"
+  },
+  "space": {
+    "1": "4px",
+    "2": "8px",
+    "3": "12px",
+    "4": "16px",
+    "5": "20px",
+    "6": "24px",
+    "8": "32px",
+    "10": "40px",
+    "12": "48px"
+  },
+  "radius": {
+    "sm": "8px",
+    "md": "12px",
+    "lg": "18px",
+    "xl": "24px",
+    "pill": "999px"
+  },
+  "font": {
+    "ui": "Inter, \"IBM Plex Sans\", system-ui, sans-serif",
+    "display": "Raleway, Inter, system-ui, sans-serif",
+    "mono": "\"IBM Plex Mono\", ui-monospace, Consolas, monospace",
+    "canon": "\"IBM Plex Serif\", Georgia, serif"
+  },
+  "size": {
+    "xs": "12px",
+    "sm": "14px",
+    "base": "16px",
+    "lg": "20px",
+    "xl": "28px",
+    "hero": "clamp(42px, 7vw, 100px)"
+  },
+  "layout": {
+    "control-min": "44px",
+    "content": "1200px"
+  },
+  "motion": {
+    "fast": "120ms",
+    "normal": "200ms"
+  }
+}
