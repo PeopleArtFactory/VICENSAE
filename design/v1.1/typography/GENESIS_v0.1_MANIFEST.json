@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "status": "EXPERIMENTAL_LOCAL_BINARY_NOT_COMMITTED",
+  "glyph_count": 157,
+  "families": [
+    {"name": "VICENSAE UI", "styles": ["Regular", "Bold"]},
+    {"name": "VICENSAE Display", "styles": ["Regular"]},
+    {"name": "VICENSAE Mono", "styles": ["Regular"]}
+  ],
+  "formats": ["TTF", "WOFF2"],
+  "source": "Original geometric skeletons; no copied third-party outlines",
+  "pending": ["binary-upload", "font QA", "licensing approval", "production release"]
+}
