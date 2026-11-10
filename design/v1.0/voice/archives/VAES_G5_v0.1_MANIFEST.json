@@ -1,0 +1,10 @@
+{
+  "schema": "vaes.archive/0.1",
+  "name": "VICENSAE_VAES_GENESIS_FORMANT_G5_v0.1",
+  "source": "index.html",
+  "sha256": "d68824c1077b91dd7aae27c080feb5f32d1057bb7ae46312c22c592b15cd68d8",
+  "status": "experimental-unvalidated",
+  "backupStatus": "hash-record-only; source HTML and ZIP not yet uploaded",
+  "historicalVoice": "none; original experimental synthesis",
+  "notes": "G5/15 frozen; do not claim official VICENSAE voice or intelligibility"
+}
