@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://vicensae.org/schemas/vaes.phoneme-sequence-0.1.json",
+  "title": "VAES Phoneme Sequence 0.1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema",
+    "language",
+    "source",
+    "tokens"
+  ],
+  "properties": {
+    "schema": {
+      "const": "vaes.phoneme-sequence/0.1"
+    },
+    "language": {
+      "const": "es"
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "engine",
+        "version",
+        "licenseStatus"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "engine": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "licenseStatus": {
+          "enum": [
+            "review-required",
+            "verified"
+          ]
+        }
+      }
+    },
+    "tokens": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "symbol",
+          "kind"
+        ],
+        "properties": {
+          "symbol": {
+            "type": "string",
+            "minLength": 1
+          },
+          "kind": {
+            "enum": [
+              "phoneme",
+              "pause",
+              "unknown"
+            ]
+          },
+          "durationMs": {
+            "type": "number",
+            "minimum": 0
+          },
+          "stress": {
+            "type": "boolean"
+          },
+          "origin": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
