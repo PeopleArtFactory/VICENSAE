@@ -17,6 +17,6 @@ No npm install, Python, or eSpeak required for the TypeScript runtime. TypeScrip
 
 **Not yet implemented:** Spanish grapheme-to-phoneme conversion, eSpeak NG execution, a voice synthesizer, phoneme timing, WAV output, acoustic voice identity, Android listening tests, and licensing clearance. The TS adapter accepts IPA; it does **not** convert arbitrary Spanish text into IPA by itself.
 
-The existing G21/V2.3 voice and ES-1224 samples are unchanged. No GitHub remote backup has been performed.
+The existing G21/V2.3 voice and ES-1224 samples are unchanged. The TypeScript source, tests, schema, tsconfig, and this README are backed up in this private GitHub repository and were individually fetched for verification. The local ZIP and compiled dist/index.js are not backed up as binary artifacts; regenerate dist/index.js with tsc. The original ZIP SHA-256 is 96bcad12fa458992bbf097c88af0af3758e64e0cd2244583622ca648b4e2630d.
 
 Always Happy Egress† by Design.
