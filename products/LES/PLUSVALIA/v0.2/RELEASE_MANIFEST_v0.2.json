@@ -1,0 +1,88 @@
+{
+  "schema": "vicensae.les.release-manifest.v0.2",
+  "artifact_id": "LES_PLUSVALIA_AUDIO",
+  "title": "La plusvalia de un millon",
+  "version": "0.2",
+  "created_utc_date": "2026-11-21",
+  "publication": "public-preview-only",
+  "product_type": "audio-encyclopedia-with-progressive-revelation",
+  "chapter_count": 14,
+  "narrated_words_total": 3377,
+  "narrated_words_public": 1516,
+  "public_share_percent_rounded": 45,
+  "public_share_percent_exact": 44.89,
+  "publicly_available_chapters": {
+    "full": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "partial": [
+      7
+    ],
+    "index_only": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "terms": {
+    "public_preview_free": true,
+    "canonical_pvp_eur_ex_vat": 300,
+    "discount_applied_percent": 0,
+    "vat": "applicable VAT to be determined before live sales"
+  },
+  "technical": {
+    "html_self_contained": true,
+    "speech_engine": "browser Web Speech API; synthesis quality and voices device-dependent",
+    "offline_reading": true,
+    "actual_payments_enabled": false,
+    "real_access_control_enabled": false,
+    "code_coin": "non-monetary demonstration only",
+    "happy_egress": "public excerpt export available"
+  },
+  "files": {
+    "public_preview": {
+      "path": "products/LES/PLUSVALIA/v0.2/LES_PLUSVALIA_AUDIO_PREVIEW_v0.2.html",
+      "sha256": "682c672a4487c44cb029a954bb1845c1ad19a10dba2a37b949ef7bc293721ea8",
+      "git_blob_sha": "db84c557996f28bdba3811ce80dddfeeee8af98d"
+    },
+    "private_qa_only": {
+      "filename": "LES_PLUSVALIA_AUDIO_EDICION_INTEGRA_QA_v0.2.html",
+      "sha256": "59603905c47af48e5f42f3cb09aa125ff39aedc5ea71bbed64f7e0a9bb9e35fa",
+      "backed_up_in_this_public_repo": false
+    },
+    "private_canonical_markdown": {
+      "filename": "LES_PLUSVALIA_AUDIO_CANONICAL_v0.2.md",
+      "sha256": "a5d804bc9407bc317d5ab7faa6e6dc7c1e60b73b16b28fa6acc60754179323f0",
+      "backed_up_in_this_public_repo": false
+    },
+    "private_canonical_json": {
+      "filename": "LES_PLUSVALIA_AUDIO_CANONICAL_v0.2.json",
+      "sha256": "26ff46ebd08d6115f803338e3f9487019f9947ccf043d9c5efe7b08641fe6508",
+      "backed_up_in_this_public_repo": false
+    },
+    "private_build_script": {
+      "filename": "build_les_audio_v02.py",
+      "backed_up_in_this_public_repo": false
+    },
+    "template_origin": {
+      "path": "products/LES/FUERO_DE_LA_LUZ/v0.1/LES_FORO_FUERO_LUZ_v0.1.html",
+      "git_blob_sha": "5d80c464e1f24ece917d54d7cb3746f636c27465"
+    }
+  },
+  "warnings": [
+    "GitHub repository is public; never commit the full commercial edition, full corpus, or generators containing paid chapters.",
+    "A public branch is not a private backup.",
+    "Full private edition still requires protected Git storage; hashes do not store data.",
+    "The demo is not verified fiduciary admission or a live payment gateway."
+  ],
+  "footer": "QR-FR+ · PUBLIC PREVIEW MANIFEST · BACKUP PARTIAL"
+}
