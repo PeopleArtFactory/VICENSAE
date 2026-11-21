@@ -40,3 +40,13 @@ The `design/v1.0/` directory contains design tokens, CSS components, a browser p
 **Happy Egress† by Design:** open formats, exportability and verifiable origins. Demo is not a verified fiduciary admission.
 
 QR-FR+ · PUBLIC DESIGN HANDBOOK v1.0 · PROVENANCE PENDING
+
+
+## LES Æ · Cultural editions
+
+- [La plusvalía de un millón · v0.2 · public audio preview (45% revealed)](products/LES/PLUSVALIA/v0.2/README.md)
+- [El fuero de la luz · v0.1 · origin template](products/LES/FUERO_DE_LA_LUZ/v0.1/LES_FORO_FUERO_LUZ_v0.1.html)
+
+The complete commercial LES edition is **not** stored in this public repository. The preview, content-access boundary, release hashes, and limits are documented in the v0.2 release manifest. Payment and verified custody are not live.
+
+QR-FR+ · PUBLIC LES INDEX · COMPLETE COMMERCIAL EDITION PRIVATE
