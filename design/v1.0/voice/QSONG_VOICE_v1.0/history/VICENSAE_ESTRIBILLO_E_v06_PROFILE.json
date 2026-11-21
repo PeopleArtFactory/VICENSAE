@@ -1,0 +1,69 @@
+{
+  "status": "experimental postprocessing of v0.5, not neural or new phoneme synthesis; no vocal tract or glottal source reconstruction",
+  "source": "VICENSAE_ESTRIBILLO_v05_PHONETIC_PROFILE.json",
+  "duration_seconds": 20.869614512471657,
+  "sample_rate": 22050,
+  "vowel_events_used": 85,
+  "formant_target_hz": {
+    "a": [
+      730,
+      1250,
+      2700
+    ],
+    "e": [
+      450,
+      2050,
+      2800
+    ],
+    "E": [
+      550,
+      1850,
+      2750
+    ],
+    "i": [
+      300,
+      2250,
+      3000
+    ],
+    "o": [
+      420,
+      900,
+      2550
+    ],
+    "O": [
+      560,
+      1000,
+      2550
+    ],
+    "u": [
+      300,
+      750,
+      2400
+    ]
+  },
+  "spectral_gain_db": [
+    1.4,
+    2.0,
+    0.9
+  ],
+  "frame_hop_samples": 128,
+  "deesser_max_db": 3,
+  "backing_duck_band_hz": [
+    1300,
+    3900
+  ],
+  "early_reflections_ms": [
+    23,
+    33
+  ],
+  "rms_dbfs_reference": -16.541029484673896,
+  "rms_dbfs_mix": -16.541029484673896,
+  "peak_dbfs_mix": -0.4333426943709859,
+  "source_hashes": {
+    "VICENSAE_ESTRIBILLO_D_v05_LOGOS.mp3": "67833289976ad4adcfce9b8bb9c6a9f379fbc446aec56feaf2dfbe8620692e45",
+    "VICENSAE_ESTRIBILLO_D_v05_CORO.mp3": "5eb0c404f46b3fa8efa0862297e54e5074c7d43aed3866a7629b2bfe4fccf869",
+    "VICENSAE_ESTRIBILLO_D_v05_FONETICA.mp3": "c6fee2829520c60da2592583219bd75814618251590d6f13b46ac9e4215e8229",
+    "QSONG_VICENSAE_EL_PORVENIR_NO_ESTA_ESCRITO_v0.1.mp3": "2e4e38c467bdb2bf80e36888eafbd54e9b34fdd2505377ad5ea28fea6b996a56",
+    "VICENSAE_ESTRIBILLO_v05_PHONETIC_PROFILE.json": "024cc22322c789cf5bc00c9ab8691b59c3e85a6bc574baa43c526d05f7af4b07"
+  }
+}

@@ -1,0 +1,724 @@
+{
+  "status": "experimental PSOLA harmonization, not neural or independently sung",
+  "source": "VICENSAE_ESTRIBILLO_B_v03_VOZ.mp3",
+  "duration_seconds": 20.869591836734696,
+  "events": [
+    {
+      "word": "La",
+      "start": 0.08,
+      "duration": 0.30689,
+      "lead_midi": 67,
+      "upper_midi": 72,
+      "lower_midi": 64,
+      "chord_pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "libertad",
+      "start": 0.39889,
+      "duration": 0.66179,
+      "lead_midi": 67,
+      "upper_midi": 72,
+      "lower_midi": 64,
+      "chord_pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "nunca",
+      "start": 1.07268,
+      "duration": 0.48434,
+      "lead_midi": 64,
+      "upper_midi": 67,
+      "lower_midi": 60,
+      "chord_pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "se",
+      "start": 1.56902,
+      "duration": 0.30689,
+      "lead_midi": 60,
+      "upper_midi": 64,
+      "lower_midi": 55,
+      "chord_pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "pierde,",
+      "start": 1.88791,
+      "duration": 0.55879,
+      "lead_midi": 64,
+      "upper_midi": 67,
+      "lower_midi": 60,
+      "chord_pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "aunque",
+      "start": 2.6887,
+      "duration": 0.44512,
+      "lead_midi": 59,
+      "upper_midi": 62,
+      "lower_midi": 55,
+      "chord_pitch_classes": [
+        2,
+        7,
+        11
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "la",
+      "start": 3.14582,
+      "duration": 0.2817,
+      "lead_midi": 62,
+      "upper_midi": 67,
+      "lower_midi": 59,
+      "chord_pitch_classes": [
+        2,
+        7,
+        11
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "olvide",
+      "start": 3.43952,
+      "duration": 0.60855,
+      "lead_midi": 62,
+      "upper_midi": 67,
+      "lower_midi": 59,
+      "chord_pitch_classes": [
+        2,
+        7,
+        11
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "el",
+      "start": 4.06007,
+      "duration": 0.2817,
+      "lead_midi": 59,
+      "upper_midi": 62,
+      "lower_midi": 55,
+      "chord_pitch_classes": [
+        2,
+        7,
+        11
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "corazón.",
+      "start": 4.35377,
+      "duration": 0.70163,
+      "lead_midi": 55,
+      "upper_midi": 59,
+      "lower_midi": 50,
+      "chord_pitch_classes": [
+        2,
+        7,
+        11
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "No",
+      "start": 5.2974,
+      "duration": 0.26645,
+      "lead_midi": 64,
+      "upper_midi": 69,
+      "lower_midi": 60,
+      "chord_pitch_classes": [
+        0,
+        4,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "hay",
+      "start": 5.57585,
+      "duration": 0.26645,
+      "lead_midi": 60,
+      "upper_midi": 64,
+      "lower_midi": 57,
+      "chord_pitch_classes": [
+        0,
+        4,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "custodio",
+      "start": 5.85429,
+      "duration": 0.57633,
+      "lead_midi": 57,
+      "upper_midi": 60,
+      "lower_midi": 52,
+      "chord_pitch_classes": [
+        0,
+        4,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "que",
+      "start": 6.44263,
+      "duration": 0.26645,
+      "lead_midi": 60,
+      "upper_midi": 64,
+      "lower_midi": 57,
+      "chord_pitch_classes": [
+        0,
+        4,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "la",
+      "start": 6.72107,
+      "duration": 0.26645,
+      "lead_midi": 64,
+      "upper_midi": 69,
+      "lower_midi": 60,
+      "chord_pitch_classes": [
+        0,
+        4,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "herede,",
+      "start": 6.99952,
+      "duration": 0.66458,
+      "lead_midi": 64,
+      "upper_midi": 69,
+      "lower_midi": 60,
+      "chord_pitch_classes": [
+        0,
+        4,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "ni",
+      "start": 7.9061,
+      "duration": 0.25184,
+      "lead_midi": 57,
+      "upper_midi": 60,
+      "lower_midi": 53,
+      "chord_pitch_classes": [
+        0,
+        5,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "autoridad",
+      "start": 8.16994,
+      "duration": 0.69228,
+      "lead_midi": 60,
+      "upper_midi": 65,
+      "lower_midi": 57,
+      "chord_pitch_classes": [
+        0,
+        5,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "que",
+      "start": 8.87422,
+      "duration": 0.25184,
+      "lead_midi": 57,
+      "upper_midi": 60,
+      "lower_midi": 53,
+      "chord_pitch_classes": [
+        0,
+        5,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "sea",
+      "start": 9.13806,
+      "duration": 0.39865,
+      "lead_midi": 53,
+      "upper_midi": 57,
+      "lower_midi": 48,
+      "chord_pitch_classes": [
+        0,
+        5,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "su",
+      "start": 9.54871,
+      "duration": 0.25184,
+      "lead_midi": 53,
+      "upper_midi": 57,
+      "lower_midi": 48,
+      "chord_pitch_classes": [
+        0,
+        5,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "autor.",
+      "start": 9.81255,
+      "duration": 0.46025,
+      "lead_midi": 57,
+      "upper_midi": 60,
+      "lower_midi": 53,
+      "chord_pitch_classes": [
+        0,
+        5,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "Que",
+      "start": 10.5148,
+      "duration": 0.26281,
+      "lead_midi": 67,
+      "upper_midi": 72,
+      "lower_midi": 64,
+      "chord_pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "se",
+      "start": 10.78961,
+      "duration": 0.26281,
+      "lead_midi": 67,
+      "upper_midi": 72,
+      "lower_midi": 64,
+      "chord_pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "determine",
+      "start": 11.06443,
+      "duration": 0.72158,
+      "lead_midi": 64,
+      "upper_midi": 67,
+      "lower_midi": 60,
+      "chord_pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "nuestro",
+      "start": 11.79801,
+      "duration": 0.41574,
+      "lead_midi": 60,
+      "upper_midi": 64,
+      "lower_midi": 55,
+      "chord_pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "pasado,",
+      "start": 12.22574,
+      "duration": 0.65576,
+      "lead_midi": 64,
+      "upper_midi": 67,
+      "lower_midi": 60,
+      "chord_pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "que",
+      "start": 13.1235,
+      "duration": 0.24621,
+      "lead_midi": 59,
+      "upper_midi": 62,
+      "lower_midi": 55,
+      "chord_pitch_classes": [
+        2,
+        7,
+        11
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "permanezca",
+      "start": 13.38171,
+      "duration": 0.67727,
+      "lead_midi": 62,
+      "upper_midi": 67,
+      "lower_midi": 59,
+      "chord_pitch_classes": [
+        2,
+        7,
+        11
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "abierta",
+      "start": 14.07098,
+      "duration": 0.53358,
+      "lead_midi": 62,
+      "upper_midi": 67,
+      "lower_midi": 59,
+      "chord_pitch_classes": [
+        2,
+        7,
+        11
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "la",
+      "start": 14.61656,
+      "duration": 0.24621,
+      "lead_midi": 59,
+      "upper_midi": 62,
+      "lower_midi": 55,
+      "chord_pitch_classes": [
+        2,
+        7,
+        11
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "elección.",
+      "start": 14.87478,
+      "duration": 0.61542,
+      "lead_midi": 55,
+      "upper_midi": 59,
+      "lower_midi": 50,
+      "chord_pitch_classes": [
+        2,
+        7,
+        11
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "El",
+      "start": 15.7322,
+      "duration": 0.2817,
+      "lead_midi": 64,
+      "upper_midi": 69,
+      "lower_midi": 60,
+      "chord_pitch_classes": [
+        0,
+        4,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "porvenir",
+      "start": 16.0259,
+      "duration": 0.60855,
+      "lead_midi": 60,
+      "upper_midi": 64,
+      "lower_midi": 57,
+      "chord_pitch_classes": [
+        0,
+        4,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "no",
+      "start": 16.64645,
+      "duration": 0.2817,
+      "lead_midi": 57,
+      "upper_midi": 60,
+      "lower_midi": 52,
+      "chord_pitch_classes": [
+        0,
+        4,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "está",
+      "start": 16.94014,
+      "duration": 0.44512,
+      "lead_midi": 60,
+      "upper_midi": 64,
+      "lower_midi": 57,
+      "chord_pitch_classes": [
+        0,
+        4,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "firmado,",
+      "start": 17.39727,
+      "duration": 0.70163,
+      "lead_midi": 64,
+      "upper_midi": 69,
+      "lower_midi": 60,
+      "chord_pitch_classes": [
+        0,
+        4,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "la",
+      "start": 18.3409,
+      "duration": 0.24162,
+      "lead_midi": 57,
+      "upper_midi": 60,
+      "lower_midi": 53,
+      "chord_pitch_classes": [
+        0,
+        5,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "libertad",
+      "start": 18.59452,
+      "duration": 0.52387,
+      "lead_midi": 60,
+      "upper_midi": 65,
+      "lower_midi": 57,
+      "chord_pitch_classes": [
+        0,
+        5,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "no",
+      "start": 19.13039,
+      "duration": 0.24162,
+      "lead_midi": 57,
+      "upper_midi": 60,
+      "lower_midi": 53,
+      "chord_pitch_classes": [
+        0,
+        5,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "pide",
+      "start": 19.38401,
+      "duration": 0.38275,
+      "lead_midi": 53,
+      "upper_midi": 57,
+      "lower_midi": 48,
+      "chord_pitch_classes": [
+        0,
+        5,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    },
+    {
+      "word": "autorización.",
+      "start": 19.77876,
+      "duration": 0.92884,
+      "lead_midi": 53,
+      "upper_midi": 57,
+      "lower_midi": 48,
+      "chord_pitch_classes": [
+        0,
+        5,
+        9
+      ],
+      "rendered": [
+        true,
+        true
+      ]
+    }
+  ],
+  "failed_harmony_segments": 0,
+  "rms_dbfs_reference": -15.346247364731125,
+  "rms_dbfs_mix": -15.346247364731116
+}

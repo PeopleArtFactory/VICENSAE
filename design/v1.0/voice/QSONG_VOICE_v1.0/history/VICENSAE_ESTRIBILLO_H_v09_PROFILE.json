@@ -1,0 +1,2924 @@
+{
+  "status": "experimental continuous parametric singing; lexical stress and phrase prosody; no listening validation; no neural model",
+  "duration": 20.869614512471657,
+  "sampleRate": 22050,
+  "wordCount": 42,
+  "vowelCount": 85,
+  "polysyllabicStressCount": 23,
+  "ornaments": 22,
+  "phraseEnds": [
+    4,
+    9,
+    15,
+    21,
+    26,
+    31,
+    36,
+    41
+  ],
+  "breaths": 7,
+  "events": [
+    {
+      "word": "La",
+      "phoneme": "l",
+      "modelPhone": "l",
+      "start": 0.08,
+      "end": 0.156,
+      "voiced": false,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "La",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 0.156,
+      "end": 0.38689,
+      "voiced": true,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "l",
+      "modelPhone": "l",
+      "start": 0.39889,
+      "end": 0.44364000000000003,
+      "voiced": false,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "i",
+      "modelPhone": "i",
+      "start": 0.44364000000000003,
+      "end": 0.5261810811641767,
+      "voiced": true,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "B",
+      "modelPhone": "B",
+      "start": 0.5261810811641767,
+      "end": 0.5498010811641767,
+      "voiced": false,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "E",
+      "modelPhone": "E",
+      "start": 0.5498010811641767,
+      "end": 0.6705366898329383,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "r",
+      "modelPhone": "r",
+      "start": 0.6705366898329383,
+      "end": 0.7314466898329384,
+      "voiced": false,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "t",
+      "modelPhone": "t",
+      "start": 0.7314466898329384,
+      "end": 0.7476066898329383,
+      "voiced": false,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 0.7476066898329383,
+      "end": 1.01322,
+      "voiced": true,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "libertad",
+      "phoneme": "d",
+      "modelPhone": "d",
+      "start": 1.01322,
+      "end": 1.06068,
+      "voiced": false,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "nunca",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 1.07268,
+      "end": 1.11765,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "nunca",
+      "phoneme": "u",
+      "modelPhone": "u",
+      "start": 1.11765,
+      "end": 1.2456414237855946,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "nunca",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 1.2456414237855946,
+      "end": 1.3144814237855946,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "nunca",
+      "phoneme": "k",
+      "modelPhone": "k",
+      "start": 1.3144814237855946,
+      "end": 1.3439014237855946,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "nunca",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 1.3439014237855946,
+      "end": 1.55703,
+      "voiced": true,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "se",
+      "phoneme": "s",
+      "modelPhone": "s",
+      "start": 1.56902,
+      "end": 1.6165100000000001,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "se",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 1.6165100000000001,
+      "end": 1.8759100000000002,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pierde,",
+      "phoneme": "p",
+      "modelPhone": "p",
+      "start": 1.88791,
+      "end": 1.9421599999999999,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pierde,",
+      "phoneme": "j",
+      "modelPhone": "j",
+      "start": 1.9421599999999999,
+      "end": 1.99582,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pierde,",
+      "phoneme": "E",
+      "modelPhone": "E",
+      "start": 1.99582,
+      "end": 2.1645079540832093,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "pierde,",
+      "phoneme": "r",
+      "modelPhone": "r",
+      "start": 2.1645079540832093,
+      "end": 2.2217379540832094,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pierde,",
+      "phoneme": "D",
+      "modelPhone": "D",
+      "start": 2.2217379540832094,
+      "end": 2.258107954083209,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pierde,",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 2.258107954083209,
+      "end": 2.44669,
+      "voiced": true,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "aunque",
+      "phoneme": "aU",
+      "modelPhone": "aU",
+      "start": 2.6887,
+      "end": 2.8902101345844877,
+      "voiced": true,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "aunque",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 2.8902101345844877,
+      "end": 2.9484301345844877,
+      "voiced": false,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "aunque",
+      "phoneme": "k",
+      "modelPhone": "k",
+      "start": 2.9484301345844877,
+      "end": 2.9743601345844874,
+      "voiced": false,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "aunque",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 2.974360134584488,
+      "end": 3.13382,
+      "voiced": true,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "la",
+      "phoneme": "l",
+      "modelPhone": "l",
+      "start": 3.14582,
+      "end": 3.20202,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "la",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 3.20202,
+      "end": 3.42752,
+      "voiced": true,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "olvide",
+      "phoneme": "O",
+      "modelPhone": "O",
+      "start": 3.43952,
+      "end": 3.597544068004713,
+      "voiced": true,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "olvide",
+      "phoneme": "l",
+      "modelPhone": "l",
+      "start": 3.597544068004713,
+      "end": 3.617354068004713,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "olvide",
+      "phoneme": "B",
+      "modelPhone": "B",
+      "start": 3.617354068004713,
+      "end": 3.640914068004713,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "olvide",
+      "phoneme": "i",
+      "modelPhone": "i",
+      "start": 3.640914068004713,
+      "end": 3.866822927496625,
+      "voiced": true,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "olvide",
+      "phoneme": "D",
+      "modelPhone": "D",
+      "start": 3.8668229274966253,
+      "end": 3.899482927496625,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "olvide",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 3.899482927496625,
+      "end": 4.04806,
+      "voiced": true,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "el",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 4.06007,
+      "end": 4.32023,
+      "voiced": true,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "el",
+      "phoneme": "l",
+      "modelPhone": "l",
+      "start": 4.32023,
+      "end": 4.3417699999999995,
+      "voiced": false,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "corazón.",
+      "phoneme": "k",
+      "modelPhone": "k",
+      "start": 4.35377,
+      "end": 4.41334,
+      "voiced": false,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "corazón.",
+      "phoneme": "O",
+      "modelPhone": "O",
+      "start": 4.41334,
+      "end": 4.506668393756877,
+      "voiced": true,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "corazón.",
+      "phoneme": "**",
+      "modelPhone": "r",
+      "start": 4.506668393756877,
+      "end": 4.534628393756877,
+      "voiced": false,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "corazón.",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 4.534628393756877,
+      "end": 4.602036642289324,
+      "voiced": true,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "corazón.",
+      "phoneme": "T",
+      "modelPhone": "T",
+      "start": 4.602036642289325,
+      "end": 4.659786642289325,
+      "voiced": false,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "corazón.",
+      "phoneme": "O",
+      "modelPhone": "O",
+      "start": 4.659786642289324,
+      "end": 4.98923,
+      "voiced": true,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "corazón.",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 4.98923,
+      "end": 5.0554,
+      "voiced": false,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "No",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 5.2974,
+      "end": 5.363919999999999,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "No",
+      "phoneme": "o",
+      "modelPhone": "o",
+      "start": 5.363919999999999,
+      "end": 5.5638499999999995,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "hay",
+      "phoneme": "aI",
+      "modelPhone": "aI",
+      "start": 5.57585,
+      "end": 5.8423,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "custodio",
+      "phoneme": "k",
+      "modelPhone": "k",
+      "start": 5.85429,
+      "end": 5.90049,
+      "voiced": false,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "custodio",
+      "phoneme": "u",
+      "modelPhone": "u",
+      "start": 5.90049,
+      "end": 5.9840049633905394,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "custodio",
+      "phoneme": "s",
+      "modelPhone": "s",
+      "start": 5.9840049633905394,
+      "end": 6.030204963390539,
+      "voiced": false,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "custodio",
+      "phoneme": "t",
+      "modelPhone": "t",
+      "start": 6.030204963390539,
+      "end": 6.04246496339054,
+      "voiced": false,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "custodio",
+      "phoneme": "o",
+      "modelPhone": "o",
+      "start": 6.04246496339054,
+      "end": 6.2592217681013445,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "custodio",
+      "phoneme": "D",
+      "modelPhone": "D",
+      "start": 6.2592217681013445,
+      "end": 6.293641768101344,
+      "voiced": false,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "custodio",
+      "phoneme": "j",
+      "modelPhone": "j",
+      "start": 6.293641768101344,
+      "end": 6.339841768101344,
+      "voiced": false,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "custodio",
+      "phoneme": "o",
+      "modelPhone": "o",
+      "start": 6.339841768101344,
+      "end": 6.43062,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "que",
+      "phoneme": "k",
+      "modelPhone": "k",
+      "start": 6.44263,
+      "end": 6.49158,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "que",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 6.49158,
+      "end": 6.70908,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "la",
+      "phoneme": "l",
+      "modelPhone": "l",
+      "start": 6.72107,
+      "end": 6.77998,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "la",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 6.77998,
+      "end": 6.98752,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "herede,",
+      "phoneme": "E",
+      "modelPhone": "E",
+      "start": 6.99952,
+      "end": 7.129583169183768,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "herede,",
+      "phoneme": "**",
+      "modelPhone": "r",
+      "start": 7.129583169183768,
+      "end": 7.164853169183767,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "herede,",
+      "phoneme": "E",
+      "modelPhone": "E",
+      "start": 7.164853169183767,
+      "end": 7.381447290137867,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "herede,",
+      "phoneme": "D",
+      "modelPhone": "D",
+      "start": 7.381447290137867,
+      "end": 7.424477290137867,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "herede,",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 7.424477290137867,
+      "end": 7.66411,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "ni",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 7.9061,
+      "end": 7.976500000000001,
+      "voiced": false,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "ni",
+      "phoneme": "i",
+      "modelPhone": "i",
+      "start": 7.976500000000001,
+      "end": 8.15794,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autoridad",
+      "phoneme": "aU",
+      "modelPhone": "aU",
+      "start": 8.16994,
+      "end": 8.347202778061877,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autoridad",
+      "phoneme": "t",
+      "modelPhone": "t",
+      "start": 8.347202778061877,
+      "end": 8.360172778061877,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autoridad",
+      "phoneme": "O",
+      "modelPhone": "O",
+      "start": 8.360172778061877,
+      "end": 8.45401310023012,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autoridad",
+      "phoneme": "**",
+      "modelPhone": "r",
+      "start": 8.45401310023012,
+      "end": 8.47696310023012,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autoridad",
+      "phoneme": "i",
+      "modelPhone": "i",
+      "start": 8.47696310023012,
+      "end": 8.549950017472089,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autoridad",
+      "phoneme": "D",
+      "modelPhone": "D",
+      "start": 8.549950017472089,
+      "end": 8.584880017472088,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autoridad",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 8.584880017472088,
+      "end": 8.82137,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "autoridad",
+      "phoneme": "d",
+      "modelPhone": "d",
+      "start": 8.82137,
+      "end": 8.86221,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "que",
+      "phoneme": "k",
+      "modelPhone": "k",
+      "start": 8.87422,
+      "end": 8.925199999999998,
+      "voiced": false,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "que",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 8.925199999999998,
+      "end": 9.126059999999999,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "sea",
+      "phoneme": "s",
+      "modelPhone": "s",
+      "start": 9.13806,
+      "end": 9.190339999999999,
+      "voiced": false,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "sea",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 9.190339999999999,
+      "end": 9.398154342854408,
+      "voiced": true,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "sea",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 9.398154342854408,
+      "end": 9.5367,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "su",
+      "phoneme": "s",
+      "modelPhone": "s",
+      "start": 9.54871,
+      "end": 9.59552,
+      "voiced": false,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "su",
+      "phoneme": "u",
+      "modelPhone": "u",
+      "start": 9.59552,
+      "end": 9.800550000000001,
+      "voiced": true,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autor.",
+      "phoneme": "aU",
+      "modelPhone": "aU",
+      "start": 9.81255,
+      "end": 9.9613153475295,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autor.",
+      "phoneme": "t",
+      "modelPhone": "t",
+      "start": 9.9613153475295,
+      "end": 9.9746753475295,
+      "voiced": false,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autor.",
+      "phoneme": "O",
+      "modelPhone": "O",
+      "start": 9.9746753475295,
+      "end": 10.24399,
+      "voiced": true,
+      "midiTargets": [
+        57.0,
+        60.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "autor.",
+      "phoneme": "r",
+      "modelPhone": "r",
+      "start": 10.24399,
+      "end": 10.2728,
+      "voiced": false,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "Que",
+      "phoneme": "k",
+      "modelPhone": "k",
+      "start": 10.5148,
+      "end": 10.567929999999999,
+      "voiced": false,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "Que",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 10.567929999999999,
+      "end": 10.77761,
+      "voiced": true,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "se",
+      "phoneme": "s",
+      "modelPhone": "s",
+      "start": 10.78961,
+      "end": 10.83848,
+      "voiced": false,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "se",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 10.83848,
+      "end": 11.05242,
+      "voiced": true,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "determine",
+      "phoneme": "d",
+      "modelPhone": "d",
+      "start": 11.06443,
+      "end": 11.08316,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "determine",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 11.08316,
+      "end": 11.249825095999089,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "determine",
+      "phoneme": "t",
+      "modelPhone": "t",
+      "start": 11.249825095999089,
+      "end": 11.265045095999088,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "determine",
+      "phoneme": "E",
+      "modelPhone": "E",
+      "start": 11.265045095999088,
+      "end": 11.383362978166506,
+      "voiced": true,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "determine",
+      "phoneme": "r",
+      "modelPhone": "r",
+      "start": 11.383362978166506,
+      "end": 11.410292978166506,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "determine",
+      "phoneme": "m",
+      "modelPhone": "m",
+      "start": 11.410292978166506,
+      "end": 11.455952978166506,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "determine",
+      "phoneme": "i",
+      "modelPhone": "i",
+      "start": 11.455952978166506,
+      "end": 11.616258775178423,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "determine",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 11.616258775178423,
+      "end": 11.666018775178422,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "determine",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 11.666018775178422,
+      "end": 11.786,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "nuestro",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 11.79801,
+      "end": 11.82967,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "nuestro",
+      "phoneme": "w",
+      "modelPhone": "w",
+      "start": 11.82967,
+      "end": 11.87294,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "nuestro",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 11.87294,
+      "end": 12.01835929282688,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "nuestro",
+      "phoneme": "s",
+      "modelPhone": "s",
+      "start": 12.01835929282688,
+      "end": 12.07006929282688,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "nuestro",
+      "phoneme": "t",
+      "modelPhone": "t",
+      "start": 12.07006929282688,
+      "end": 12.08325929282688,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "nuestro",
+      "phoneme": "**",
+      "modelPhone": "r",
+      "start": 12.08325929282688,
+      "end": 12.111229292826879,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "nuestro",
+      "phoneme": "o",
+      "modelPhone": "o",
+      "start": 12.111229292826879,
+      "end": 12.213759999999999,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pasado,",
+      "phoneme": "p",
+      "modelPhone": "p",
+      "start": 12.22574,
+      "end": 12.27163,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pasado,",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 12.27163,
+      "end": 12.371267600203627,
+      "voiced": true,
+      "midiTargets": [
+        67.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pasado,",
+      "phoneme": "s",
+      "modelPhone": "s",
+      "start": 12.371267600203627,
+      "end": 12.420057600203627,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pasado,",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 12.420057600203627,
+      "end": 12.658747765221445,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "pasado,",
+      "phoneme": "D",
+      "modelPhone": "D",
+      "start": 12.658747765221445,
+      "end": 12.694177765221445,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pasado,",
+      "phoneme": "o",
+      "modelPhone": "o",
+      "start": 12.694177765221445,
+      "end": 12.8815,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "que",
+      "phoneme": "k",
+      "modelPhone": "k",
+      "start": 13.1235,
+      "end": 13.17325,
+      "voiced": false,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "que",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 13.17325,
+      "end": 13.36971,
+      "voiced": true,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "permanezca",
+      "phoneme": "p",
+      "modelPhone": "p",
+      "start": 13.38171,
+      "end": 13.421,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "permanezca",
+      "phoneme": "E",
+      "modelPhone": "E",
+      "start": 13.421,
+      "end": 13.520398585071666,
+      "voiced": true,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "permanezca",
+      "phoneme": "r",
+      "modelPhone": "r",
+      "start": 13.520398585071666,
+      "end": 13.543778585071665,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "permanezca",
+      "phoneme": "m",
+      "modelPhone": "m",
+      "start": 13.543778585071665,
+      "end": 13.576598585071665,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "permanezca",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 13.576598585071666,
+      "end": 13.64180107619337,
+      "voiced": true,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "permanezca",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 13.64180107619337,
+      "end": 13.684071076193371,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "permanezca",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 13.684071076193371,
+      "end": 13.829221363258254,
+      "voiced": true,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "permanezca",
+      "phoneme": "T",
+      "modelPhone": "T",
+      "start": 13.829221363258254,
+      "end": 13.887411363258254,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "permanezca",
+      "phoneme": "k",
+      "modelPhone": "k",
+      "start": 13.887411363258254,
+      "end": 13.914271363258253,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "permanezca",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 13.914271363258255,
+      "end": 14.05898,
+      "voiced": true,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "abierta",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 14.07098,
+      "end": 14.1845239883874,
+      "voiced": true,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "abierta",
+      "phoneme": "B",
+      "modelPhone": "B",
+      "start": 14.1845239883874,
+      "end": 14.205663988387402,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "abierta",
+      "phoneme": "j",
+      "modelPhone": "j",
+      "start": 14.205663988387402,
+      "end": 14.247033988387402,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "abierta",
+      "phoneme": "E",
+      "modelPhone": "E",
+      "start": 14.2470339883874,
+      "end": 14.390917607647577,
+      "voiced": true,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "abierta",
+      "phoneme": "r",
+      "modelPhone": "r",
+      "start": 14.390917607647577,
+      "end": 14.436877607647578,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "abierta",
+      "phoneme": "t",
+      "modelPhone": "t",
+      "start": 14.436877607647578,
+      "end": 14.448827607647578,
+      "voiced": false,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "abierta",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 14.448827607647576,
+      "end": 14.60456,
+      "voiced": true,
+      "midiTargets": [
+        62.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "la",
+      "phoneme": "l",
+      "modelPhone": "l",
+      "start": 14.61656,
+      "end": 14.67768,
+      "voiced": false,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "la",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 14.67768,
+      "end": 14.862770000000001,
+      "voiced": true,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "elección.",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 14.87478,
+      "end": 14.960099753290729,
+      "voiced": true,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "elección.",
+      "phoneme": "l",
+      "modelPhone": "l",
+      "start": 14.960099753290729,
+      "end": 14.990049753290728,
+      "voiced": false,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "elección.",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 14.990049753290728,
+      "end": 15.081657690737506,
+      "voiced": true,
+      "midiTargets": [
+        59.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "elección.",
+      "phoneme": "k",
+      "modelPhone": "k",
+      "start": 15.081657690737506,
+      "end": 15.107187690737506,
+      "voiced": false,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "elección.",
+      "phoneme": "T",
+      "modelPhone": "T",
+      "start": 15.107187690737506,
+      "end": 15.153837690737506,
+      "voiced": false,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "elección.",
+      "phoneme": "j",
+      "modelPhone": "j",
+      "start": 15.153837690737507,
+      "end": 15.212267690737507,
+      "voiced": false,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "elección.",
+      "phoneme": "O",
+      "modelPhone": "O",
+      "start": 15.212267690737507,
+      "end": 15.4255,
+      "voiced": true,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "elección.",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 15.4255,
+      "end": 15.4902,
+      "voiced": false,
+      "midiTargets": [
+        55.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "El",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 15.7322,
+      "end": 15.975050000000001,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "El",
+      "phoneme": "l",
+      "modelPhone": "l",
+      "start": 15.975050000000001,
+      "end": 16.0139,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "porvenir",
+      "phoneme": "p",
+      "modelPhone": "p",
+      "start": 16.0259,
+      "end": 16.06858,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "porvenir",
+      "phoneme": "O",
+      "modelPhone": "O",
+      "start": 16.06858,
+      "end": 16.170741629332444,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "porvenir",
+      "phoneme": "r",
+      "modelPhone": "r",
+      "start": 16.170741629332444,
+      "end": 16.226391629332444,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "porvenir",
+      "phoneme": "B",
+      "modelPhone": "B",
+      "start": 16.226391629332444,
+      "end": 16.246381629332443,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "porvenir",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 16.246381629332443,
+      "end": 16.348543258664886,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "porvenir",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 16.348543258664883,
+      "end": 16.400403258664884,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "porvenir",
+      "phoneme": "i",
+      "modelPhone": "i",
+      "start": 16.400403258664884,
+      "end": 16.597260000000002,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "porvenir",
+      "phoneme": "r",
+      "modelPhone": "r",
+      "start": 16.59726,
+      "end": 16.634449999999998,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "no",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 16.64645,
+      "end": 16.707810000000002,
+      "voiced": false,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "no",
+      "phoneme": "o",
+      "modelPhone": "o",
+      "start": 16.707810000000002,
+      "end": 16.928150000000002,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "está",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 16.94014,
+      "end": 17.0452642916176,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "está",
+      "phoneme": "s",
+      "modelPhone": "s",
+      "start": 17.0452642916176,
+      "end": 17.1001242916176,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "está",
+      "phoneme": "t",
+      "modelPhone": "t",
+      "start": 17.100124291617597,
+      "end": 17.114114291617597,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "está",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 17.114114291617597,
+      "end": 17.38526,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "firmado,",
+      "phoneme": "f",
+      "modelPhone": "f",
+      "start": 17.39727,
+      "end": 17.45817,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "firmado,",
+      "phoneme": "i",
+      "modelPhone": "i",
+      "start": 17.45817,
+      "end": 17.574246677608212,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "firmado,",
+      "phoneme": "r",
+      "modelPhone": "r",
+      "start": 17.574246677608212,
+      "end": 17.60197667760821,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "firmado,",
+      "phoneme": "m",
+      "modelPhone": "m",
+      "start": 17.601976677608214,
+      "end": 17.652626677608215,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "firmado,",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 17.65262667760821,
+      "end": 17.838112537729558,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "firmado,",
+      "phoneme": "D",
+      "modelPhone": "D",
+      "start": 17.83811253772956,
+      "end": 17.87489253772956,
+      "voiced": false,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "firmado,",
+      "phoneme": "o",
+      "modelPhone": "o",
+      "start": 17.87489253772956,
+      "end": 18.09891,
+      "voiced": true,
+      "midiTargets": [
+        64.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "la",
+      "phoneme": "l",
+      "modelPhone": "l",
+      "start": 18.3409,
+      "end": 18.40091,
+      "voiced": false,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "la",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 18.40091,
+      "end": 18.58252,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "l",
+      "modelPhone": "l",
+      "start": 18.59452,
+      "end": 18.6292,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "i",
+      "modelPhone": "i",
+      "start": 18.6292,
+      "end": 18.693167935339222,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "B",
+      "modelPhone": "B",
+      "start": 18.69316793533922,
+      "end": 18.71146793533922,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "E",
+      "modelPhone": "E",
+      "start": 18.71146793533922,
+      "end": 18.805031098624298,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "r",
+      "modelPhone": "r",
+      "start": 18.805031098624298,
+      "end": 18.852231098624298,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "t",
+      "modelPhone": "t",
+      "start": 18.852231098624298,
+      "end": 18.864751098624296,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "libertad",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 18.864751098624296,
+      "end": 19.07058,
+      "voiced": true,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "libertad",
+      "phoneme": "d",
+      "modelPhone": "d",
+      "start": 19.07058,
+      "end": 19.118389999999998,
+      "voiced": false,
+      "midiTargets": [
+        60.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "no",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 19.13039,
+      "end": 19.19062,
+      "voiced": false,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "no",
+      "phoneme": "o",
+      "modelPhone": "o",
+      "start": 19.19062,
+      "end": 19.37201,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pide",
+      "phoneme": "p",
+      "modelPhone": "p",
+      "start": 19.38401,
+      "end": 19.42162,
+      "voiced": false,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pide",
+      "phoneme": "i",
+      "modelPhone": "i",
+      "start": 19.42162,
+      "end": 19.585197919991888,
+      "voiced": true,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "pide",
+      "phoneme": "D",
+      "modelPhone": "D",
+      "start": 19.585197919991884,
+      "end": 19.610407919991886,
+      "voiced": false,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "pide",
+      "phoneme": "e",
+      "modelPhone": "e",
+      "start": 19.610407919991886,
+      "end": 19.76676,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autorización.",
+      "phoneme": "aU",
+      "modelPhone": "aU",
+      "start": 19.77876,
+      "end": 19.95445321785338,
+      "voiced": true,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autorización.",
+      "phoneme": "t",
+      "modelPhone": "t",
+      "start": 19.95445321785338,
+      "end": 19.96721321785338,
+      "voiced": false,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autorización.",
+      "phoneme": "O",
+      "modelPhone": "O",
+      "start": 19.96721321785338,
+      "end": 20.059687365617158,
+      "voiced": true,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autorización.",
+      "phoneme": "**",
+      "modelPhone": "r",
+      "start": 20.059687365617158,
+      "end": 20.08366736561716,
+      "voiced": false,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autorización.",
+      "phoneme": "i",
+      "modelPhone": "i",
+      "start": 20.08366736561716,
+      "end": 20.15045377709484,
+      "voiced": true,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autorización.",
+      "phoneme": "T",
+      "modelPhone": "T",
+      "start": 20.15045377709484,
+      "end": 20.19893377709484,
+      "voiced": false,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autorización.",
+      "phoneme": "a",
+      "modelPhone": "a",
+      "start": 20.198933777094837,
+      "end": 20.300654488201904,
+      "voiced": true,
+      "midiTargets": [
+        57.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autorización.",
+      "phoneme": "T",
+      "modelPhone": "T",
+      "start": 20.300654488201907,
+      "end": 20.34913448820191,
+      "voiced": false,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autorización.",
+      "phoneme": "j",
+      "modelPhone": "j",
+      "start": 20.349134488201905,
+      "end": 20.409854488201905,
+      "voiced": false,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    },
+    {
+      "word": "autorización.",
+      "phoneme": "O",
+      "modelPhone": "O",
+      "start": 20.409854488201905,
+      "end": 20.653789999999997,
+      "voiced": true,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": true
+    },
+    {
+      "word": "autorización.",
+      "phoneme": "n",
+      "modelPhone": "n",
+      "start": 20.653789999999997,
+      "end": 20.70762,
+      "voiced": false,
+      "midiTargets": [
+        53.0
+      ],
+      "tonic": false
+    }
+  ],
+  "accentPlan": [
+    {
+      "word": "La",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.23089
+      ],
+      "newVowelDurations": [
+        0.23089
+      ],
+      "anchorMidi": 67,
+      "phraseEnd": false
+    },
+    {
+      "word": "libertad",
+      "tonicNucleus": 2,
+      "originalVowelDurations": [
+        0.09848,
+        0.14405,
+        0.22636
+      ],
+      "newVowelDurations": [
+        0.08254108116417665,
+        0.12073560866876165,
+        0.2656133101670617
+      ],
+      "anchorMidi": 67,
+      "phraseEnd": false
+    },
+    {
+      "word": "nunca",
+      "tonicNucleus": 0,
+      "originalVowelDurations": [
+        0.1024,
+        0.23872
+      ],
+      "newVowelDurations": [
+        0.1279914237855946,
+        0.21312857621440534
+      ],
+      "anchorMidi": 64,
+      "phraseEnd": false
+    },
+    {
+      "word": "se",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.2594
+      ],
+      "newVowelDurations": [
+        0.2594
+      ],
+      "anchorMidi": 60,
+      "phraseEnd": false
+    },
+    {
+      "word": "pierde,",
+      "tonicNucleus": 0,
+      "originalVowelDurations": [
+        0.1565,
+        0.20077
+      ],
+      "newVowelDurations": [
+        0.1686879540832093,
+        0.18858204591679067
+      ],
+      "anchorMidi": 64,
+      "phraseEnd": true
+    },
+    {
+      "word": "aunque",
+      "tonicNucleus": 0,
+      "originalVowelDurations": [
+        0.17125,
+        0.18972
+      ],
+      "newVowelDurations": [
+        0.20151013458448785,
+        0.15945986541551213
+      ],
+      "anchorMidi": 59,
+      "phraseEnd": false
+    },
+    {
+      "word": "la",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.2255
+      ],
+      "newVowelDurations": [
+        0.2255
+      ],
+      "anchorMidi": 62,
+      "phraseEnd": false
+    },
+    {
+      "word": "olvide",
+      "tonicNucleus": 1,
+      "originalVowelDurations": [
+        0.17982,
+        0.18362,
+        0.16907
+      ],
+      "newVowelDurations": [
+        0.15802406800471322,
+        0.22590885949191203,
+        0.14857707250337485
+      ],
+      "anchorMidi": 62,
+      "phraseEnd": false
+    },
+    {
+      "word": "el",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.26016
+      ],
+      "newVowelDurations": [
+        0.26016
+      ],
+      "anchorMidi": 59,
+      "phraseEnd": false
+    },
+    {
+      "word": "corazón.",
+      "tonicNucleus": 2,
+      "originalVowelDurations": [
+        0.12937,
+        0.09344,
+        0.26737
+      ],
+      "newVowelDurations": [
+        0.09332839375687771,
+        0.06740824853244687,
+        0.32944335771067534
+      ],
+      "anchorMidi": 55,
+      "phraseEnd": true
+    },
+    {
+      "word": "No",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.19993
+      ],
+      "newVowelDurations": [
+        0.19993
+      ],
+      "anchorMidi": 64,
+      "phraseEnd": false
+    },
+    {
+      "word": "hay",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.26645
+      ],
+      "newVowelDurations": [
+        0.26645
+      ],
+      "anchorMidi": 60,
+      "phraseEnd": false
+    },
+    {
+      "word": "custodio",
+      "tonicNucleus": 1,
+      "originalVowelDurations": [
+        0.09923,
+        0.18396,
+        0.10786
+      ],
+      "newVowelDurations": [
+        0.08351496339053965,
+        0.21675680471080463,
+        0.0907782318986557
+      ],
+      "anchorMidi": 57,
+      "phraseEnd": false
+    },
+    {
+      "word": "que",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.2175
+      ],
+      "newVowelDurations": [
+        0.2175
+      ],
+      "anchorMidi": 60,
+      "phraseEnd": false
+    },
+    {
+      "word": "la",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.20754
+      ],
+      "newVowelDurations": [
+        0.20754
+      ],
+      "anchorMidi": 64,
+      "phraseEnd": false
+    },
+    {
+      "word": "herede,",
+      "tonicNucleus": 1,
+      "originalVowelDurations": [
+        0.15847,
+        0.1885,
+        0.23932
+      ],
+      "newVowelDurations": [
+        0.13006316918376729,
+        0.21659412095409972,
+        0.23963270986213298
+      ],
+      "anchorMidi": 64,
+      "phraseEnd": true
+    },
+    {
+      "word": "ni",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.18144
+      ],
+      "newVowelDurations": [
+        0.18144
+      ],
+      "anchorMidi": 57,
+      "phraseEnd": false
+    },
+    {
+      "word": "autoridad",
+      "tonicNucleus": 3,
+      "originalVowelDurations": [
+        0.20061,
+        0.1062,
+        0.0826,
+        0.19117
+      ],
+      "newVowelDurations": [
+        0.1772627780618768,
+        0.09384032216824342,
+        0.07298691724196711,
+        0.23648998252791273
+      ],
+      "anchorMidi": 60,
+      "phraseEnd": false
+    },
+    {
+      "word": "que",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.20086
+      ],
+      "newVowelDurations": [
+        0.20086
+      ],
+      "anchorMidi": 57,
+      "phraseEnd": false
+    },
+    {
+      "word": "sea",
+      "tonicNucleus": 0,
+      "originalVowelDurations": [
+        0.17915,
+        0.16721
+      ],
+      "newVowelDurations": [
+        0.2078143428544089,
+        0.13854565714559114
+      ],
+      "anchorMidi": 53,
+      "phraseEnd": false
+    },
+    {
+      "word": "su",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.20503
+      ],
+      "newVowelDurations": [
+        0.20503
+      ],
+      "anchorMidi": 53,
+      "phraseEnd": false
+    },
+    {
+      "word": "autor.",
+      "tonicNucleus": 1,
+      "originalVowelDurations": [
+        0.20296,
+        0.21512
+      ],
+      "newVowelDurations": [
+        0.14876534752950007,
+        0.2693146524704999
+      ],
+      "anchorMidi": 57,
+      "phraseEnd": true
+    },
+    {
+      "word": "Que",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.20968
+      ],
+      "newVowelDurations": [
+        0.20968
+      ],
+      "anchorMidi": 67,
+      "phraseEnd": false
+    },
+    {
+      "word": "se",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.21394
+      ],
+      "newVowelDurations": [
+        0.21394
+      ],
+      "anchorMidi": 67,
+      "phraseEnd": false
+    },
+    {
+      "word": "determine",
+      "tonicNucleus": 2,
+      "originalVowelDurations": [
+        0.18136,
+        0.12875,
+        0.1246,
+        0.13056
+      ],
+      "newVowelDurations": [
+        0.16666509599908955,
+        0.11831788216741719,
+        0.16030579701191652,
+        0.11998122482157662
+      ],
+      "anchorMidi": 64,
+      "phraseEnd": false
+    },
+    {
+      "word": "nuestro",
+      "tonicNucleus": 0,
+      "originalVowelDurations": [
+        0.12478,
+        0.12317
+      ],
+      "newVowelDurations": [
+        0.14541929282687957,
+        0.10253070717312045
+      ],
+      "anchorMidi": 60,
+      "phraseEnd": false
+    },
+    {
+      "word": "pasado,",
+      "tonicNucleus": 1,
+      "originalVowelDurations": [
+        0.12362,
+        0.21153,
+        0.1905
+      ],
+      "newVowelDurations": [
+        0.09963760020362726,
+        0.23869016501781737,
+        0.18732223477855536
+      ],
+      "anchorMidi": 64,
+      "phraseEnd": true
+    },
+    {
+      "word": "que",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.19646
+      ],
+      "newVowelDurations": [
+        0.19646
+      ],
+      "anchorMidi": 59,
+      "phraseEnd": false
+    },
+    {
+      "word": "permanezca",
+      "tonicNucleus": 2,
+      "originalVowelDurations": [
+        0.10938,
+        0.07175,
+        0.11409,
+        0.15924
+      ],
+      "newVowelDurations": [
+        0.09939858507166625,
+        0.06520249112170463,
+        0.14515028706488353,
+        0.1447086367417456
+      ],
+      "anchorMidi": 62,
+      "phraseEnd": false
+    },
+    {
+      "word": "abierta",
+      "tonicNucleus": 1,
+      "originalVowelDurations": [
+        0.12609,
+        0.11413,
+        0.17294
+      ],
+      "newVowelDurations": [
+        0.1135439883874005,
+        0.14388361926017626,
+        0.1557323923524232
+      ],
+      "anchorMidi": 62,
+      "phraseEnd": false
+    },
+    {
+      "word": "la",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.18509
+      ],
+      "newVowelDurations": [
+        0.18509
+      ],
+      "anchorMidi": 59,
+      "phraseEnd": false
+    },
+    {
+      "word": "elección.",
+      "tonicNucleus": 2,
+      "originalVowelDurations": [
+        0.11031,
+        0.11844,
+        0.16141
+      ],
+      "newVowelDurations": [
+        0.08531975329072965,
+        0.09160793744677743,
+        0.21323230926249293
+      ],
+      "anchorMidi": 55,
+      "phraseEnd": true
+    },
+    {
+      "word": "El",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.24285
+      ],
+      "newVowelDurations": [
+        0.24285
+      ],
+      "anchorMidi": 64,
+      "phraseEnd": false
+    },
+    {
+      "word": "porvenir",
+      "tonicNucleus": 2,
+      "originalVowelDurations": [
+        0.11882,
+        0.11882,
+        0.16354
+      ],
+      "newVowelDurations": [
+        0.10216162933244177,
+        0.10216162933244177,
+        0.19685674133511646
+      ],
+      "anchorMidi": 60,
+      "phraseEnd": false
+    },
+    {
+      "word": "no",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.22034
+      ],
+      "newVowelDurations": [
+        0.22034
+      ],
+      "anchorMidi": 57,
+      "phraseEnd": false
+    },
+    {
+      "word": "está",
+      "tonicNucleus": 1,
+      "originalVowelDurations": [
+        0.13238,
+        0.24389
+      ],
+      "newVowelDurations": [
+        0.10512429161759802,
+        0.271145708382402
+      ],
+      "anchorMidi": 60,
+      "phraseEnd": false
+    },
+    {
+      "word": "firmado,",
+      "tonicNucleus": 1,
+      "originalVowelDurations": [
+        0.14116,
+        0.16112,
+        0.2233
+      ],
+      "newVowelDurations": [
+        0.11607667760821336,
+        0.18548586012134788,
+        0.22401746227043873
+      ],
+      "anchorMidi": 64,
+      "phraseEnd": true
+    },
+    {
+      "word": "la",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.18161
+      ],
+      "newVowelDurations": [
+        0.18161
+      ],
+      "anchorMidi": 57,
+      "phraseEnd": false
+    },
+    {
+      "word": "libertad",
+      "tonicNucleus": 2,
+      "originalVowelDurations": [
+        0.07632,
+        0.11163,
+        0.17541
+      ],
+      "newVowelDurations": [
+        0.06396793533921998,
+        0.09356316328507763,
+        0.20582890137570237
+      ],
+      "anchorMidi": 60,
+      "phraseEnd": false
+    },
+    {
+      "word": "no",
+      "tonicNucleus": null,
+      "originalVowelDurations": [
+        0.18139
+      ],
+      "newVowelDurations": [
+        0.18139
+      ],
+      "anchorMidi": 57,
+      "phraseEnd": false
+    },
+    {
+      "word": "pide",
+      "tonicNucleus": 0,
+      "originalVowelDurations": [
+        0.13683,
+        0.1831
+      ],
+      "newVowelDurations": [
+        0.16357791999188603,
+        0.15635208000811399
+      ],
+      "anchorMidi": 53,
+      "phraseEnd": false
+    },
+    {
+      "word": "autorización.",
+      "tonicNucleus": 4,
+      "originalVowelDurations": [
+        0.20635,
+        0.10861,
+        0.07844,
+        0.11947,
+        0.16774
+      ],
+      "newVowelDurations": [
+        0.17569321785338132,
+        0.09247414776377876,
+        0.06678641147767982,
+        0.10172071110706793,
+        0.24393551179809217
+      ],
+      "anchorMidi": 53,
+      "phraseEnd": true
+    }
+  ],
+  "files": {
+    "VICENSAE_ESTRIBILLO_H_v09_PROSODIA.mp3": {
+      "rms_dbfs_preencode": -15.791765245327362,
+      "peak_dbfs_preencode": -4.3165525222671866,
+      "sha256": "c5aacbb8c3aa48a12c1a06036d1e2315316d107cf18f1589e5c2ea2da9d90d91"
+    },
+    "VICENSAE_ESTRIBILLO_H_v09_LOGOS.mp3": {
+      "rms_dbfs_preencode": -22.535270800538107,
+      "peak_dbfs_preencode": -8.2326732645962,
+      "sha256": "a4c9a775b400b13fde0958b7c732f4eb54bb49f066792ac7661a87aa63ed5270"
+    },
+    "VICENSAE_ESTRIBILLO_H_v09_REFERENCIA_PARAM_v08.mp3": {
+      "rms_dbfs_preencode": -15.648419505814982,
+      "peak_dbfs_preencode": -4.443994832590047,
+      "sha256": "3828d58568d231e1f77bf2c08118d9c3e6c891ea3b204ce0822570363d260852"
+    }
+  },
+  "sources": {
+    "VICENSAE_ESTRIBILLO_v05_PHONETIC_PROFILE.json": "024cc22322c789cf5bc00c9ab8691b59c3e85a6bc574baa43c526d05f7af4b07",
+    "VICENSAE_ESTRIBILLO_G_v08_TRACTO.mp3": "bb9161a663a7edf7b6dc70b3ba044f8f8716b9c492b97516d89a6e946b7d8ac8",
+    "QSONG_VICENSAE_EL_PORVENIR_NO_ESTA_ESCRITO_v0.1.mp3": "2e4e38c467bdb2bf80e36888eafbd54e9b34fdd2505377ad5ea28fea6b996a56",
+    "QSONG_VICENSAE_EL_PORVENIR_NO_ESTA_ESCRITO_v0.1.qseed.json": "5e1ea787121ec2d4cbc6d72e540e8bad70866608751fbff44e288e593bc890fb"
+  },
+  "limitations": [
+    "original word windows preserved; consonant durations unchanged",
+    "new melodic notes are selected from chord at nucleus midpoint, not guaranteed chord tones at all moments",
+    "approximate phone boundaries inherited from v0.5",
+    "comparison uses standalone parametric v0.8, not hybrid v0.8; multiple prosodic factors changed"
+  ]
+}

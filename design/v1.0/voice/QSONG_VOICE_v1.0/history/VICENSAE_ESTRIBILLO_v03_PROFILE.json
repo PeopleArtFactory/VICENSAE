@@ -1,0 +1,429 @@
+{
+  "status": "experimental excerpt not neural; approximate syllable-count weighted word durations; continuous pitch accents per word; not phoneme aligned",
+  "startSource": 52.1739,
+  "duration": 20.86959999999999,
+  "events": [
+    {
+      "word": "La",
+      "syllables": [
+        "la"
+      ],
+      "start": 0.08,
+      "duration": 0.30689,
+      "midi": 67
+    },
+    {
+      "word": "libertad",
+      "syllables": [
+        "li",
+        "ber",
+        "tad"
+      ],
+      "start": 0.39889,
+      "duration": 0.66179,
+      "midi": 67
+    },
+    {
+      "word": "nunca",
+      "syllables": [
+        "nun",
+        "ca"
+      ],
+      "start": 1.07268,
+      "duration": 0.48434,
+      "midi": 64
+    },
+    {
+      "word": "se",
+      "syllables": [
+        "se"
+      ],
+      "start": 1.56902,
+      "duration": 0.30689,
+      "midi": 60
+    },
+    {
+      "word": "pierde,",
+      "syllables": [
+        "pier",
+        "de"
+      ],
+      "start": 1.88791,
+      "duration": 0.55879,
+      "midi": 64
+    },
+    {
+      "word": "aunque",
+      "syllables": [
+        "aun",
+        "que"
+      ],
+      "start": 2.6887,
+      "duration": 0.44512,
+      "midi": 59
+    },
+    {
+      "word": "la",
+      "syllables": [
+        "la"
+      ],
+      "start": 3.14582,
+      "duration": 0.2817,
+      "midi": 62
+    },
+    {
+      "word": "olvide",
+      "syllables": [
+        "ol",
+        "vi",
+        "de"
+      ],
+      "start": 3.43952,
+      "duration": 0.60855,
+      "midi": 62
+    },
+    {
+      "word": "el",
+      "syllables": [
+        "el"
+      ],
+      "start": 4.06007,
+      "duration": 0.2817,
+      "midi": 59
+    },
+    {
+      "word": "corazón.",
+      "syllables": [
+        "co",
+        "ra",
+        "zón"
+      ],
+      "start": 4.35377,
+      "duration": 0.70163,
+      "midi": 55
+    },
+    {
+      "word": "No",
+      "syllables": [
+        "no"
+      ],
+      "start": 5.2974,
+      "duration": 0.26645,
+      "midi": 64
+    },
+    {
+      "word": "hay",
+      "syllables": [
+        "hay"
+      ],
+      "start": 5.57585,
+      "duration": 0.26645,
+      "midi": 60
+    },
+    {
+      "word": "custodio",
+      "syllables": [
+        "cus",
+        "to",
+        "dio"
+      ],
+      "start": 5.85429,
+      "duration": 0.57633,
+      "midi": 57
+    },
+    {
+      "word": "que",
+      "syllables": [
+        "que"
+      ],
+      "start": 6.44263,
+      "duration": 0.26645,
+      "midi": 60
+    },
+    {
+      "word": "la",
+      "syllables": [
+        "la"
+      ],
+      "start": 6.72107,
+      "duration": 0.26645,
+      "midi": 64
+    },
+    {
+      "word": "herede,",
+      "syllables": [
+        "he",
+        "re",
+        "de"
+      ],
+      "start": 6.99952,
+      "duration": 0.66458,
+      "midi": 64
+    },
+    {
+      "word": "ni",
+      "syllables": [
+        "ni"
+      ],
+      "start": 7.9061,
+      "duration": 0.25184,
+      "midi": 57
+    },
+    {
+      "word": "autoridad",
+      "syllables": [
+        "au",
+        "to",
+        "ri",
+        "dad"
+      ],
+      "start": 8.16994,
+      "duration": 0.69228,
+      "midi": 60
+    },
+    {
+      "word": "que",
+      "syllables": [
+        "que"
+      ],
+      "start": 8.87422,
+      "duration": 0.25184,
+      "midi": 57
+    },
+    {
+      "word": "sea",
+      "syllables": [
+        "se",
+        "a"
+      ],
+      "start": 9.13806,
+      "duration": 0.39865,
+      "midi": 53
+    },
+    {
+      "word": "su",
+      "syllables": [
+        "su"
+      ],
+      "start": 9.54871,
+      "duration": 0.25184,
+      "midi": 53
+    },
+    {
+      "word": "autor.",
+      "syllables": [
+        "au",
+        "tor"
+      ],
+      "start": 9.81255,
+      "duration": 0.46025,
+      "midi": 57
+    },
+    {
+      "word": "Que",
+      "syllables": [
+        "que"
+      ],
+      "start": 10.5148,
+      "duration": 0.26281,
+      "midi": 67
+    },
+    {
+      "word": "se",
+      "syllables": [
+        "se"
+      ],
+      "start": 10.78961,
+      "duration": 0.26281,
+      "midi": 67
+    },
+    {
+      "word": "determine",
+      "syllables": [
+        "de",
+        "ter",
+        "mi",
+        "ne"
+      ],
+      "start": 11.06443,
+      "duration": 0.72158,
+      "midi": 64
+    },
+    {
+      "word": "nuestro",
+      "syllables": [
+        "nues",
+        "tro"
+      ],
+      "start": 11.79801,
+      "duration": 0.41574,
+      "midi": 60
+    },
+    {
+      "word": "pasado,",
+      "syllables": [
+        "pa",
+        "sa",
+        "do"
+      ],
+      "start": 12.22574,
+      "duration": 0.65576,
+      "midi": 64
+    },
+    {
+      "word": "que",
+      "syllables": [
+        "que"
+      ],
+      "start": 13.1235,
+      "duration": 0.24621,
+      "midi": 59
+    },
+    {
+      "word": "permanezca",
+      "syllables": [
+        "per",
+        "ma",
+        "nez",
+        "ca"
+      ],
+      "start": 13.38171,
+      "duration": 0.67727,
+      "midi": 62
+    },
+    {
+      "word": "abierta",
+      "syllables": [
+        "a",
+        "bier",
+        "ta"
+      ],
+      "start": 14.07098,
+      "duration": 0.53358,
+      "midi": 62
+    },
+    {
+      "word": "la",
+      "syllables": [
+        "la"
+      ],
+      "start": 14.61656,
+      "duration": 0.24621,
+      "midi": 59
+    },
+    {
+      "word": "elección.",
+      "syllables": [
+        "e",
+        "lec",
+        "ción"
+      ],
+      "start": 14.87478,
+      "duration": 0.61542,
+      "midi": 55
+    },
+    {
+      "word": "El",
+      "syllables": [
+        "el"
+      ],
+      "start": 15.7322,
+      "duration": 0.2817,
+      "midi": 64
+    },
+    {
+      "word": "porvenir",
+      "syllables": [
+        "por",
+        "ve",
+        "nir"
+      ],
+      "start": 16.0259,
+      "duration": 0.60855,
+      "midi": 60
+    },
+    {
+      "word": "no",
+      "syllables": [
+        "no"
+      ],
+      "start": 16.64645,
+      "duration": 0.2817,
+      "midi": 57
+    },
+    {
+      "word": "está",
+      "syllables": [
+        "es",
+        "tá"
+      ],
+      "start": 16.94014,
+      "duration": 0.44512,
+      "midi": 60
+    },
+    {
+      "word": "firmado,",
+      "syllables": [
+        "fir",
+        "ma",
+        "do"
+      ],
+      "start": 17.39727,
+      "duration": 0.70163,
+      "midi": 64
+    },
+    {
+      "word": "la",
+      "syllables": [
+        "la"
+      ],
+      "start": 18.3409,
+      "duration": 0.24162,
+      "midi": 57
+    },
+    {
+      "word": "libertad",
+      "syllables": [
+        "li",
+        "ber",
+        "tad"
+      ],
+      "start": 18.59452,
+      "duration": 0.52387,
+      "midi": 60
+    },
+    {
+      "word": "no",
+      "syllables": [
+        "no"
+      ],
+      "start": 19.13039,
+      "duration": 0.24162,
+      "midi": 57
+    },
+    {
+      "word": "pide",
+      "syllables": [
+        "pi",
+        "de"
+      ],
+      "start": 19.38401,
+      "duration": 0.38275,
+      "midi": 53
+    },
+    {
+      "word": "autorización.",
+      "syllables": [
+        "au",
+        "to",
+        "ri",
+        "za",
+        "ción"
+      ],
+      "start": 19.77876,
+      "duration": 0.92884,
+      "midi": 53
+    }
+  ],
+  "fallbacks": []
+}

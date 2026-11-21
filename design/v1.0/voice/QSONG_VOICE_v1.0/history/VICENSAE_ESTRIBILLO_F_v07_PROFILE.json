@@ -1,0 +1,1383 @@
+{
+  "status": "hybrid experimental source-filter: generated Rosenberg-style derivative harmonic excitation on vowels, 65% crossfade with existing v0.6 lead; consonants retained; no neural synthesis or subjective validation",
+  "sample_rate": 22050,
+  "duration": 20.869614512471657,
+  "vowel_events": 85,
+  "glottal_open_quotient_range": [
+    0.49502229887585086,
+    0.6648113429063391
+  ],
+  "max_harmonics": 64,
+  "vibrato_hz": 5.2,
+  "source_vowel_mix": 0.65,
+  "events": [
+    {
+      "phoneme": "a",
+      "start": 0.156,
+      "end": 0.38689,
+      "midi": 67,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "i",
+      "start": 0.44364000000000003,
+      "end": 0.54212,
+      "midi": 67,
+      "formants_start": [
+        300,
+        2250,
+        3000
+      ],
+      "formants_end": [
+        300,
+        2250,
+        3000
+      ]
+    },
+    {
+      "phoneme": "E",
+      "start": 0.56574,
+      "end": 0.70979,
+      "midi": 67,
+      "formants_start": [
+        550,
+        1850,
+        2750
+      ],
+      "formants_end": [
+        550,
+        1850,
+        2750
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 0.78686,
+      "end": 1.01322,
+      "midi": 67,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "u",
+      "start": 1.11765,
+      "end": 1.22005,
+      "midi": 64,
+      "formants_start": [
+        300,
+        750,
+        2400
+      ],
+      "formants_end": [
+        300,
+        750,
+        2400
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 1.3183,
+      "end": 1.55702,
+      "midi": 64,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 1.6165100000000001,
+      "end": 1.8759100000000002,
+      "midi": 60,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "E",
+      "start": 1.99582,
+      "end": 2.15232,
+      "midi": 64,
+      "formants_start": [
+        550,
+        1850,
+        2750
+      ],
+      "formants_end": [
+        550,
+        1850,
+        2750
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 2.24593,
+      "end": 2.4467,
+      "midi": 64,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "aU",
+      "start": 2.6887,
+      "end": 2.85995,
+      "midi": 59,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        300,
+        750,
+        2400
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 2.9440999999999997,
+      "end": 3.1338199999999996,
+      "midi": 59,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 3.20202,
+      "end": 3.42752,
+      "midi": 62,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "O",
+      "start": 3.43952,
+      "end": 3.61934,
+      "midi": 62,
+      "formants_start": [
+        560,
+        1000,
+        2550
+      ],
+      "formants_end": [
+        560,
+        1000,
+        2550
+      ]
+    },
+    {
+      "phoneme": "i",
+      "start": 3.6627099999999997,
+      "end": 3.8463299999999996,
+      "midi": 62,
+      "formants_start": [
+        300,
+        2250,
+        3000
+      ],
+      "formants_end": [
+        300,
+        2250,
+        3000
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 3.879,
+      "end": 4.04807,
+      "midi": 62,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 4.06007,
+      "end": 4.32023,
+      "midi": 59,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "O",
+      "start": 4.41334,
+      "end": 4.54271,
+      "midi": 55,
+      "formants_start": [
+        560,
+        1000,
+        2550
+      ],
+      "formants_end": [
+        560,
+        1000,
+        2550
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 4.57067,
+      "end": 4.66411,
+      "midi": 55,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "O",
+      "start": 4.7218599999999995,
+      "end": 4.989229999999999,
+      "midi": 55,
+      "formants_start": [
+        560,
+        1000,
+        2550
+      ],
+      "formants_end": [
+        560,
+        1000,
+        2550
+      ]
+    },
+    {
+      "phoneme": "o",
+      "start": 5.363919999999999,
+      "end": 5.5638499999999995,
+      "midi": 64,
+      "formants_start": [
+        420,
+        900,
+        2550
+      ],
+      "formants_end": [
+        420,
+        900,
+        2550
+      ]
+    },
+    {
+      "phoneme": "aI",
+      "start": 5.57585,
+      "end": 5.8423,
+      "midi": 60,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        300,
+        2250,
+        3000
+      ]
+    },
+    {
+      "phoneme": "u",
+      "start": 5.90049,
+      "end": 5.99972,
+      "midi": 57,
+      "formants_start": [
+        300,
+        750,
+        2400
+      ],
+      "formants_end": [
+        300,
+        750,
+        2400
+      ]
+    },
+    {
+      "phoneme": "o",
+      "start": 6.05818,
+      "end": 6.24214,
+      "midi": 57,
+      "formants_start": [
+        420,
+        900,
+        2550
+      ],
+      "formants_end": [
+        420,
+        900,
+        2550
+      ]
+    },
+    {
+      "phoneme": "o",
+      "start": 6.32276,
+      "end": 6.430619999999999,
+      "midi": 57,
+      "formants_start": [
+        420,
+        900,
+        2550
+      ],
+      "formants_end": [
+        420,
+        900,
+        2550
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 6.49158,
+      "end": 6.70908,
+      "midi": 60,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 6.77998,
+      "end": 6.98752,
+      "midi": 64,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "E",
+      "start": 6.99952,
+      "end": 7.157990000000001,
+      "midi": 64,
+      "formants_start": [
+        550,
+        1850,
+        2750
+      ],
+      "formants_end": [
+        550,
+        1850,
+        2750
+      ]
+    },
+    {
+      "phoneme": "E",
+      "start": 7.19326,
+      "end": 7.381760000000001,
+      "midi": 64,
+      "formants_start": [
+        550,
+        1850,
+        2750
+      ],
+      "formants_end": [
+        550,
+        1850,
+        2750
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 7.42478,
+      "end": 7.6641,
+      "midi": 64,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "i",
+      "start": 7.976500000000001,
+      "end": 8.15794,
+      "midi": 57,
+      "formants_start": [
+        300,
+        2250,
+        3000
+      ],
+      "formants_end": [
+        300,
+        2250,
+        3000
+      ]
+    },
+    {
+      "phoneme": "aU",
+      "start": 8.16994,
+      "end": 8.37055,
+      "midi": 60,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        300,
+        750,
+        2400
+      ]
+    },
+    {
+      "phoneme": "O",
+      "start": 8.38352,
+      "end": 8.48972,
+      "midi": 60,
+      "formants_start": [
+        560,
+        1000,
+        2550
+      ],
+      "formants_end": [
+        560,
+        1000,
+        2550
+      ]
+    },
+    {
+      "phoneme": "i",
+      "start": 8.51268,
+      "end": 8.595279999999999,
+      "midi": 60,
+      "formants_start": [
+        300,
+        2250,
+        3000
+      ],
+      "formants_end": [
+        300,
+        2250,
+        3000
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 8.63021,
+      "end": 8.82138,
+      "midi": 60,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 8.925199999999998,
+      "end": 9.126059999999999,
+      "midi": 57,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 9.190339999999999,
+      "end": 9.369489999999999,
+      "midi": 53,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 9.369499999999999,
+      "end": 9.53671,
+      "midi": 53,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "u",
+      "start": 9.59552,
+      "end": 9.800550000000001,
+      "midi": 53,
+      "formants_start": [
+        300,
+        750,
+        2400
+      ],
+      "formants_end": [
+        300,
+        750,
+        2400
+      ]
+    },
+    {
+      "phoneme": "aU",
+      "start": 9.81255,
+      "end": 10.015509999999999,
+      "midi": 57,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        300,
+        750,
+        2400
+      ]
+    },
+    {
+      "phoneme": "O",
+      "start": 10.02888,
+      "end": 10.244,
+      "midi": 57,
+      "formants_start": [
+        560,
+        1000,
+        2550
+      ],
+      "formants_end": [
+        560,
+        1000,
+        2550
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 10.567929999999999,
+      "end": 10.77761,
+      "midi": 67,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 10.83848,
+      "end": 11.05242,
+      "midi": 67,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 11.08316,
+      "end": 11.26452,
+      "midi": 64,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "E",
+      "start": 11.27975,
+      "end": 11.4085,
+      "midi": 64,
+      "formants_start": [
+        550,
+        1850,
+        2750
+      ],
+      "formants_end": [
+        550,
+        1850,
+        2750
+      ]
+    },
+    {
+      "phoneme": "i",
+      "start": 11.48109,
+      "end": 11.60569,
+      "midi": 64,
+      "formants_start": [
+        300,
+        2250,
+        3000
+      ],
+      "formants_end": [
+        300,
+        2250,
+        3000
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 11.65545,
+      "end": 11.786010000000001,
+      "midi": 64,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 11.87294,
+      "end": 11.99772,
+      "midi": 60,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "o",
+      "start": 12.09058,
+      "end": 12.21375,
+      "midi": 60,
+      "formants_start": [
+        420,
+        900,
+        2550
+      ],
+      "formants_end": [
+        420,
+        900,
+        2550
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 12.27163,
+      "end": 12.39525,
+      "midi": 64,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 12.44404,
+      "end": 12.655569999999999,
+      "midi": 64,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "o",
+      "start": 12.691,
+      "end": 12.8815,
+      "midi": 64,
+      "formants_start": [
+        420,
+        900,
+        2550
+      ],
+      "formants_end": [
+        420,
+        900,
+        2550
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 13.17325,
+      "end": 13.36971,
+      "midi": 59,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "E",
+      "start": 13.421,
+      "end": 13.53038,
+      "midi": 62,
+      "formants_start": [
+        550,
+        1850,
+        2750
+      ],
+      "formants_end": [
+        550,
+        1850,
+        2750
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 13.58658,
+      "end": 13.65833,
+      "midi": 62,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 13.7006,
+      "end": 13.814689999999999,
+      "midi": 62,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 13.89974,
+      "end": 14.05898,
+      "midi": 62,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 14.07098,
+      "end": 14.19707,
+      "midi": 62,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "E",
+      "start": 14.25958,
+      "end": 14.373709999999999,
+      "midi": 62,
+      "formants_start": [
+        550,
+        1850,
+        2750
+      ],
+      "formants_end": [
+        550,
+        1850,
+        2750
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 14.43162,
+      "end": 14.604560000000001,
+      "midi": 62,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 14.67768,
+      "end": 14.862770000000001,
+      "midi": 59,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 14.87478,
+      "end": 14.98509,
+      "midi": 55,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 15.015049999999999,
+      "end": 15.133489999999998,
+      "midi": 55,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "O",
+      "start": 15.2641,
+      "end": 15.42551,
+      "midi": 55,
+      "formants_start": [
+        560,
+        1000,
+        2550
+      ],
+      "formants_end": [
+        560,
+        1000,
+        2550
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 15.7322,
+      "end": 15.975050000000001,
+      "midi": 64,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "O",
+      "start": 16.06858,
+      "end": 16.1874,
+      "midi": 60,
+      "formants_start": [
+        560,
+        1000,
+        2550
+      ],
+      "formants_end": [
+        560,
+        1000,
+        2550
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 16.26304,
+      "end": 16.38186,
+      "midi": 60,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "i",
+      "start": 16.43372,
+      "end": 16.597260000000002,
+      "midi": 60,
+      "formants_start": [
+        300,
+        2250,
+        3000
+      ],
+      "formants_end": [
+        300,
+        2250,
+        3000
+      ]
+    },
+    {
+      "phoneme": "o",
+      "start": 16.707810000000002,
+      "end": 16.928150000000002,
+      "midi": 57,
+      "formants_start": [
+        420,
+        900,
+        2550
+      ],
+      "formants_end": [
+        420,
+        900,
+        2550
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 16.94014,
+      "end": 17.07252,
+      "midi": 60,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 17.14137,
+      "end": 17.38526,
+      "midi": 60,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "i",
+      "start": 17.45817,
+      "end": 17.59933,
+      "midi": 64,
+      "formants_start": [
+        300,
+        2250,
+        3000
+      ],
+      "formants_end": [
+        300,
+        2250,
+        3000
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 17.677699999999998,
+      "end": 17.83882,
+      "midi": 64,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "o",
+      "start": 17.8756,
+      "end": 18.098899999999997,
+      "midi": 64,
+      "formants_start": [
+        420,
+        900,
+        2550
+      ],
+      "formants_end": [
+        420,
+        900,
+        2550
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 18.40091,
+      "end": 18.58252,
+      "midi": 57,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "i",
+      "start": 18.6292,
+      "end": 18.70552,
+      "midi": 60,
+      "formants_start": [
+        300,
+        2250,
+        3000
+      ],
+      "formants_end": [
+        300,
+        2250,
+        3000
+      ]
+    },
+    {
+      "phoneme": "E",
+      "start": 18.72382,
+      "end": 18.83545,
+      "midi": 60,
+      "formants_start": [
+        550,
+        1850,
+        2750
+      ],
+      "formants_end": [
+        550,
+        1850,
+        2750
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 18.89517,
+      "end": 19.07058,
+      "midi": 60,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "o",
+      "start": 19.19062,
+      "end": 19.37201,
+      "midi": 57,
+      "formants_start": [
+        420,
+        900,
+        2550
+      ],
+      "formants_end": [
+        420,
+        900,
+        2550
+      ]
+    },
+    {
+      "phoneme": "i",
+      "start": 19.42162,
+      "end": 19.55845,
+      "midi": 53,
+      "formants_start": [
+        300,
+        2250,
+        3000
+      ],
+      "formants_end": [
+        300,
+        2250,
+        3000
+      ]
+    },
+    {
+      "phoneme": "e",
+      "start": 19.58366,
+      "end": 19.766759999999998,
+      "midi": 53,
+      "formants_start": [
+        450,
+        2050,
+        2800
+      ],
+      "formants_end": [
+        450,
+        2050,
+        2800
+      ]
+    },
+    {
+      "phoneme": "aU",
+      "start": 19.77876,
+      "end": 19.98511,
+      "midi": 53,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        300,
+        750,
+        2400
+      ]
+    },
+    {
+      "phoneme": "O",
+      "start": 19.99787,
+      "end": 20.106479999999998,
+      "midi": 53,
+      "formants_start": [
+        560,
+        1000,
+        2550
+      ],
+      "formants_end": [
+        560,
+        1000,
+        2550
+      ]
+    },
+    {
+      "phoneme": "i",
+      "start": 20.13046,
+      "end": 20.2089,
+      "midi": 53,
+      "formants_start": [
+        300,
+        2250,
+        3000
+      ],
+      "formants_end": [
+        300,
+        2250,
+        3000
+      ]
+    },
+    {
+      "phoneme": "a",
+      "start": 20.257369999999998,
+      "end": 20.376839999999998,
+      "midi": 53,
+      "formants_start": [
+        730,
+        1250,
+        2700
+      ],
+      "formants_end": [
+        730,
+        1250,
+        2700
+      ]
+    },
+    {
+      "phoneme": "O",
+      "start": 20.48603,
+      "end": 20.653769999999998,
+      "midi": 53,
+      "formants_start": [
+        560,
+        1000,
+        2550
+      ],
+      "formants_end": [
+        560,
+        1000,
+        2550
+      ]
+    }
+  ],
+  "rms_dbfs_mix": -16.986385515978625,
+  "rms_dbfs_reference": -16.986385515978625,
+  "peak_dbfs_mix": -4.874289234098513,
+  "source_files": {
+    "VICENSAE_ESTRIBILLO_v05_PHONETIC_PROFILE.json": "024cc22322c789cf5bc00c9ab8691b59c3e85a6bc574baa43c526d05f7af4b07",
+    "VICENSAE_ESTRIBILLO_E_v06_LOGOS.mp3": "5a18a489be68a83bcebbe4f8558d7b499f0edd18ebea351014449457292abbf5",
+    "QSONG_VICENSAE_EL_PORVENIR_NO_ESTA_ESCRITO_v0.1.mp3": "2e4e38c467bdb2bf80e36888eafbd54e9b34fdd2505377ad5ea28fea6b996a56"
+  }
+}
